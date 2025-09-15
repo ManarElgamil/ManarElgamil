@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Manar Elgamil  
 **Cloud & Application Specialist | Software Developer**  
 
-🎓 Recent Computer Science graduate (Dalhousie University, 2024)  
 💻 Currently working at VMG Strategic Technology, building **cloud-native solutions** with AWS, Azure, Cloudflare, and modern web technologies.  
 
 📫 How to reach me: **gamilmanar15@gmail.com**  
