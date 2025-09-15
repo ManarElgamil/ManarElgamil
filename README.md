@@ -28,7 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws-lambda/amazon_aws-lambda-icon.svg" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/amazon_apigateway/amazon_apigateway-icon.svg" width="40" height="40"/>  
 </p>  
 
 ---
